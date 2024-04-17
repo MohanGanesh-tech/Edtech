@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+langsmith
+python-dotenv
+redis
+pymongo
